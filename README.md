@@ -1,5 +1,3 @@
-# DSI-2024.1-
-
 # fooddeliveryapp2
 
 A new Flutter project.
